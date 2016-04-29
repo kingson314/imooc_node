@@ -1,0 +1,24 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "一个简单视频网站",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "debug": "^2.2.0",
+    "body-parser": "^1.13.3",
+    "express": "^4.13.4",
+    "moment": "^2.13.0",
+    "underscore": "^1.8.3",
+    "mongoose": "^4.4.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "杨盼"
+  ],
+  "author": "www.antcp.com",
+  "license": "ISC"
+}
